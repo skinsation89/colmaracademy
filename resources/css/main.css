@@ -1,0 +1,264 @@
+header {
+  margin: 24px;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img {
+  position: relative;
+  top: 6px;
+}
+
+header h1 {
+  font-size: 32px;
+  font-family: Syncopate;
+}
+
+
+nav span {
+  font-size: 28px;
+  font-family: Gruppo;
+  margin: 16px;
+}
+
+div.section-one {
+  background-color: lightgray;
+  height: 730px;
+  width: 100%;
+}
+
+.section-one img {
+  width: 60%;
+  margin: 32px 24px;
+}
+
+.section-one h1 {
+  font-family: Gruppo;
+  font-weight: bold;
+  text-align: right;
+  position: relative;
+  bottom: 550px;
+  right: 50px;
+}
+
+.section-one h2 {
+  font-family: Gruppo;
+  text-align: right;
+  position: relative;
+  bottom: 550px;
+  right: 50px;
+
+
+
+}
+
+.section-one .button {
+  height: 50px;
+  width: 300px;
+  font-size: 18px;
+  font-family: Gruppo;
+  background-color: black;
+  float: right;
+  color: white;
+  position: relative;
+  bottom: 500px;
+  right: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.section-two {
+  height: 1200px;
+  width: 100%;
+}
+
+.section-two img.info1 {
+  margin: 32px 24px;
+  width: 60%;
+}
+
+h1.head2 {
+  font-family: Gruppo;
+  font-size: 50px;
+  margin-bottom: 24px;
+  margin-left: 32px;
+}
+
+p.quote {
+  font-family: Gruppo;
+  font-size: 20px;
+  margin-left: 32px;
+}
+
+
+.flex2 {
+  display: inline-flex;
+  flex-direction: column;
+  float: right;
+  width: 35%;
+  position: relative;
+  bottom: 750px;
+  height: 300px;
+}
+
+
+h1.head3 {
+  font-family: Gruppo;
+  position: relative;
+  bottom: 200px;
+  left: 300px;
+}
+
+p.p1 {
+  font-family: Gruppo;
+  position: relative;
+  bottom: 200px;
+  left: 300px;
+}
+
+span.span1 {
+  font-family: Gruppo;
+  color: dodgerblue;
+  position: relative;
+  bottom: 200px;
+  left: 300px;
+}
+
+div.item4 {
+  background-color: lightgray;
+}
+
+div.section-three {
+  background-color: lightgray;
+  height: 1030px;
+  width: 100%;
+  position: relative;
+  top: 600px;
+}
+
+
+.flex3 {
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  bottom: 50px;
+}
+
+.flex4 {
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  bottom: 50px;
+
+}
+
+div.item5 {
+  background-color: white;
+  margin-right: 32px;
+  margin-bottom: 32px;
+  width: 350px;
+}
+
+div.item6 {
+  background-color: white;
+  margin-right: 32px;
+  margin-bottom: 32px;
+  width: 350px;
+}
+
+div.item7 {
+  background-color: white;
+  margin-bottom: 32px;
+  width: 350px;
+}
+
+h1.start {
+  text-align: center;
+  font-family: Gruppo;
+  font-size: 50px;
+  position: relative;
+  top: 100px;
+  left: 260px;
+}
+
+h1.head4 {
+  font-family: Gruppo;
+  text-align: center;
+}
+
+p.p3 {
+  font-family: Gruppo;
+  font-size: 15px;
+  text-align: center;
+}
+
+div.item8 {
+  background-color: white;
+  margin-right: 32px;
+  width: 350px;
+}
+
+div.item9 {
+  background-color: white;
+  margin-right: 32px;
+  width: 350px;
+}
+
+div.item10 {
+  background-color: white;
+  width: 350px;
+}
+
+div.section-four {
+  height: 1200px;
+  width: 100%;
+  border-bottom: 1px solid lightgray;
+}
+
+h1.thesis {
+  font-family: Gruppo;
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  top: 150px;
+}
+
+div.item11 {
+  width: 60%;
+  position: relative;
+  top: 400px;
+}
+
+.flex5 {
+  display: inline-flex;
+  flex-direction: column;
+  width: 35%;
+  float: right;
+  position: relative;
+
+}
+
+div.item12 {
+  background-color: lightgray;
+}
+
+footer p {
+  float: left;
+  margin-top: 16px;
+  margin-left: 24px;
+  font-family: Gruppo;
+  font-size: 28px;
+}
+
+footer nav span {
+  float: right;
+  margin-top: 16px;
+  margin-right: 24px;
+}
