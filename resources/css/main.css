@@ -262,3 +262,8 @@ footer nav span {
   margin-top: 16px;
   margin-right: 24px;
 }
+
+i.fa {
+  font-size: 20px;
+  margin-right: 3px;
+}
