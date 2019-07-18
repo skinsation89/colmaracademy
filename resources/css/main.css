@@ -249,6 +249,11 @@ div.item12 {
   background-color: lightgray;
 }
 
+footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
 footer p {
   float: left;
   margin-top: 16px;
